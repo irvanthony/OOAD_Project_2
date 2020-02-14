@@ -1,0 +1,90 @@
+This is the zoo anouncer! The zookeeper is about to wake up the animals.
+Zelda wakes up the animals.
+Charlie the Cat woke up.
+Chloe the Cat woke up.
+Daniel the Dog woke up.
+Dorothy the Dog woke up.
+Ernie the Elephant woke up.
+Elizabeth the Elephant woke up.
+Harley the Hippo woke up.
+Herald the Hippo woke up.
+Larry the Lion woke up.
+Lisa the Lion woke up.
+Richie the Rhino woke up.
+Rachel the Rhino woke up.
+Tony the Tiger woke up.
+Trish the Tiger woke up.
+William the Wolf woke up.
+Wendy the Wolf woke up.
+This is the zoo anouncer! The zookeeper is about to roll call the animals.
+Zelda roll calls the animals
+Charlie the Cat meows like a cat.
+Chloe the Cat meows like a cat.
+Daniel the Dog barks like a dog.
+Dorothy the Dog barks like a dog.
+Ernie the Elephant blares like an elephant.
+Elizabeth the Elephant blares like an elephant.
+Harley the Hippo yawns like a hippo.
+Herald the Hippo yawns like a hippo.
+Larry the Lion roars like a lion.
+Lisa the Lion roars like a lion.
+Richie the Rhino grunts like a rhino.
+Rachel the Rhino grunts like a rhino.
+Tony the Tiger growls like a tiger.
+Trish the Tiger growls like a tiger.
+William the Wolf howls like a wolf.
+Wendy the Wolf howls like a wolf.
+This is the zoo anouncer! The zookeeper is about to feed the animals.
+Zelda feeds teh animals.
+Charlie the Cat ate their food
+Chloe the Cat ate their food
+Daniel the Dog ate their food
+Dorothy the Dog ate their food
+Ernie the Elephant ate their food
+Elizabeth the Elephant ate their food
+Harley the Hippo ate their food
+Herald the Hippo ate their food
+Larry the Lion ate their food
+Lisa the Lion ate their food
+Richie the Rhino ate their food
+Rachel the Rhino ate their food
+Tony the Tiger ate their food
+Trish the Tiger ate their food
+William the Wolf ate their food
+Wendy the Wolf ate their food
+This is the zoo anouncer! The zookeeper is about to exercise the animals.
+Zelda feeds the animals.
+Charlie the Cat stalks around like a feline.
+Chloe the Cat stalks around like a feline.
+Daniel the Dog runs around like a canine.
+Dorothy the Dog runs around like a canine.
+Ernie the Elephant stomps around like a pachyderm.
+Elizabeth the Elephant stomps around like a pachyderm.
+Harley the Hippo stomps around like a pachyderm.
+Herald the Hippo stomps around like a pachyderm.
+Larry the Lion stalks around like a feline.
+Lisa the Lion stalks around like a feline.
+Richie the Rhino stomps around like a pachyderm.
+Rachel the Rhino stomps around like a pachyderm.
+Tony the Tiger stalks around like a feline.
+Trish the Tiger stalks around like a feline.
+William the Wolf runs around like a canine.
+Wendy the Wolf runs around like a canine.
+This is the zoo anouncer! The zookeeper is about to shut down the zoo.
+Zelda shuts down the zoo.
+Charlie the Cat went to sleep
+Chloe the Cat went to sleep
+Daniel the Dog went to sleep
+Dorothy the Dog went to sleep
+Ernie the Elephant went to sleep
+Elizabeth the Elephant went to sleep
+Harley the Hippo went to sleep
+Herald the Hippo went to sleep
+Larry the Lion went to sleep
+Lisa the Lion went to sleep
+Richie the Rhino went to sleep
+Rachel the Rhino went to sleep
+Tony the Tiger went to sleep
+Trish the Tiger went to sleep
+William the Wolf went to sleep
+Wendy the Wolf went to sleep
